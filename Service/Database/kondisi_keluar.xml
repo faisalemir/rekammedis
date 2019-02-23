@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <kondisi_keluar status="none">
+    <id_kondisi>1</id_kondisi>
+    <kondisi>Baik</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id02</id_kondisi>
+    <kondisi>Sehat</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id04</id_kondisi>
+    <kondisi>Sangat Baik</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id07</id_kondisi>
+    <kondisi>zzzzzzzzzzzzz</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id08</id_kondisi>
+    <kondisi>Biasa</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id09</id_kondisi>
+    <kondisi>kondisi 9</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id10</id_kondisi>
+    <kondisi>konsidi 10</kondisi>
+  </kondisi_keluar>
+  <kondisi_keluar status="none">
+    <id_kondisi>id11</id_kondisi>
+    <kondisi>Sekarang</kondisi>
+  </kondisi_keluar>
+</NewDataSet>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RM>
+  <rekam_medis status="none">
+    <id_rm>rm0001</id_rm>
+    <id_pasien>ps0001</id_pasien>
+    <id_reg>rg0001</id_reg>
+    <id_kondisi>1</id_kondisi>
+    <stole_diastole>2</stole_diastole>
+    <respiratory_rate>3</respiratory_rate>
+    <suhu>4</suhu>
+    <nadi>52</nadi>
+    <berat_badan>60</berat_badan>
+    <tinggi_badan>170</tinggi_badan>
+    <anamnesia>awdawdawdawd</anamnesia>
+    <tanggal>1/18/2015 3:16:56 PM</tanggal>
+  </rekam_medis>
+  <rekam_medis status="insert">
+    <id_rm>rm0002</id_rm>
+    <id_pasien>ps0001</id_pasien>
+    <id_reg>rg0002</id_reg>
+    <id_kondisi>1</id_kondisi>
+    <stole_diastole>2</stole_diastole>
+    <respiratory_rate>3</respiratory_rate>
+    <suhu>4</suhu>
+    <nadi>5</nadi>
+    <berat_badan>60</berat_badan>
+    <tinggi_badan>170</tinggi_badan>
+    <anamnesia>awdawd</anamnesia>
+    <tanggal>2/1/2015 10:33:56 AM</tanggal>
+  </rekam_medis>
+</RM>

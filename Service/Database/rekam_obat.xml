@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RO>
+  <rekam_obat status="none">
+    <id_rm>rm0001</id_rm>
+    <id_obat>obt01</id_obat>
+    <jumlah>3</jumlah>
+  </rekam_obat>
+  <rekam_obat status="none">
+    <id_rm>rm0001</id_rm>
+    <id_obat>obt02</id_obat>
+    <jumlah>4</jumlah>
+  </rekam_obat>
+  <rekam_obat status="insert">
+    <id_rm>rm0002</id_rm>
+    <id_obat>obt01</id_obat>
+    <jumlah>2</jumlah>
+  </rekam_obat>
+</RO>

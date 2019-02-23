@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<LG>
+  <login>
+    <id_login>log0001</id_login>
+    <nama>emir</nama>
+    <pass>emir</pass>
+    <akses>rekam medis</akses>
+  </login>
+  <login>
+    <id_login>log0002</id_login>
+    <nama>admin</nama>
+    <pass>admin</pass>
+    <akses>rekam medis</akses>
+  </login>
+</LG>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<Obat>
+	<Table>
+		<id_obat>obt01</id_obat>
+		<nama_obat>paracetamol</nama_obat>
+		<stok_obat>100</stok_obat>
+		<jenis>aa</jenis>
+		<keterangan>obat</keterangan>
+		<harga>2000</harga>
+	</Table>
+	<Table>
+		<id_obat>obt02</id_obat>
+		<nama_obat>lopamid</nama_obat>
+		<stok_obat>300</stok_obat>
+		<jenis>aa</jenis>
+		<keterangan>obat</keterangan>
+		<harga>1000</harga>
+	</Table>
+	<Table>
+		<id_obat>obt03</id_obat>
+		<nama_obat>mylanta</nama_obat>
+		<stok_obat>150</stok_obat>
+		<jenis>aa</jenis>
+		<keterangan>obat</keterangan>
+		<harga>500</harga>
+	</Table>
+</Obat>

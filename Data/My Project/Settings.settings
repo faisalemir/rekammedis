@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Data_Kondisi_Kondisi" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30244/Service/Kondisi.asmx</Value>
+    </Setting>
+    <Setting Name="Data_Other_OtherService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30244/Service/Other.asmx</Value>
+    </Setting>
+    <Setting Name="Data_RekamObat_RekamObat" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30244/Service/RekamObat.asmx</Value>
+    </Setting>
+    <Setting Name="Data_RekamTerapi_RekamTerapi" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30244/Service/RekamTerapi.asmx</Value>
+    </Setting>
+    <Setting Name="Data_RekamMedis_RekamMedis" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30244/Service/RekamMedis.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

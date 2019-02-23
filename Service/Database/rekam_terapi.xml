@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RT>
+  <rekam_terapi status="none">
+    <id_rm>rm0001</id_rm>
+    <id_terapi>trp01</id_terapi>
+  </rekam_terapi>
+  <rekam_terapi status="insert">
+    <id_rm>rm0002</id_rm>
+    <id_terapi>trp01</id_terapi>
+  </rekam_terapi>
+</RT>

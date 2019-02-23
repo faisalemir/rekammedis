@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<RekamMedis>
+  <Table>
+    <id_rm>1</id_rm>
+    <id_pasien>1</id_pasien>
+    <id_reg>1</id_reg>
+    <id_kondisi>1</id_kondisi>
+    <stole_diastole>324</stole_diastole>
+    <respiratory_rate>123</respiratory_rate>
+    <suhu>23</suhu>
+    <nadi>31</nadi>
+    <berat_badan>52</berat_badan>
+    <tinggi_badan>155</tinggi_badan>
+    <anamnesia>zzz</anamnesia>
+    <pemeriksaan_fisik>aaa</pemeriksaan_fisik>
+    <keadaan_umum>awd</keadaan_umum>
+    <tanggal>2015-01-05T00:00:00+07:00</tanggal>
+  </Table>
+</RekamMedis>

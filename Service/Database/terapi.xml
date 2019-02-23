@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<Terapi>
+	<Table>
+		<id_terapi>trp01</id_terapi>
+		<id_tarif>trf01</id_tarif>
+		<terapi>Pijat</terapi>
+	</Table>
+	<Table>
+		<id_terapi>trp02</id_terapi>
+		<id_tarif>trf02</id_tarif>
+		<terapi>Urut</terapi>
+	</Table>
+	<Table>
+		<id_terapi>trp03</id_terapi>
+		<id_tarif>trf03</id_tarif>
+		<terapi>Gosok</terapi>
+	</Table>
+</Terapi>

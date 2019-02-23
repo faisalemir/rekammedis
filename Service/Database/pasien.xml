@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PS>
+  <id_pasien>ps0001</id_pasien>
+  <nama_pasien>emir</nama_pasien>
+  <alamat_pasien>malang</alamat_pasien>
+  <tgl_lahir>2000-04-14</tgl_lahir>
+  <no_telp>12392934234</no_telp>
+  <jk>0</jk>
+</PS>
